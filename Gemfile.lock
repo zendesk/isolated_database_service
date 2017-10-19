@@ -14,7 +14,7 @@ GEM
     backports (3.6.7)
     bump (0.5.3)
     diff-lcs (1.2.5)
-    isolated_server (0.4.11)
+    isolated_server (0.4.12)
     multi_json (1.11.2)
     mysql2 (0.4.2)
     rack (1.6.4)
@@ -67,4 +67,4 @@ DEPENDENCIES
   sinatra-contrib
 
 BUNDLED WITH
-   1.13.2
+   1.14.3
