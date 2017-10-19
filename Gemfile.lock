@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    isolated_database_service (0.0.6)
+    isolated_database_service (0.0.7)
       isolated_server
       mysql2
       rack-parser
@@ -67,4 +67,4 @@ DEPENDENCIES
   sinatra-contrib
 
 BUNDLED WITH
-   1.14.3
+   1.15.4
